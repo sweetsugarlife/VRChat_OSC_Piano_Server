@@ -1,1 +1,4 @@
 # VRChat_OSC_Piano_Server
+運行midishare條綫midi輸入
+點擊exe窗口監聽輸入
+本輸入接口對應A0-C8的midi電子琴輸入
